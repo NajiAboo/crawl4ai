@@ -13,6 +13,6 @@ AI-Driven Insights: Process and analyze crawled data for AI/ML applications.
 
 
 Examples 
-### Basic Web Scrape  
-### Screen shot and pdf of webpage 
-### Extract the product information from amazon
+### Basic Web Scrape  :  https://youtu.be/mFISX0Y7MkI
+### Screen shot and pdf of webpage : https://youtu.be/iazzmPWq7xQ
+### Extract the product information from amazon:  https://youtu.be/Jfs3nXM_2gM
