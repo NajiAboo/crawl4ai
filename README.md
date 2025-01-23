@@ -10,3 +10,9 @@ Scalable Web Crawling: Efficiently scrape data from multiple web sources.
 Customizable Pipelines: Tailor data extraction and transformation pipelines to your needs.
 
 AI-Driven Insights: Process and analyze crawled data for AI/ML applications.
+
+
+Examples 
+### Basic Web Scrape  
+### Screen shot and pdf of webpage 
+### Extract the product information from amazon
